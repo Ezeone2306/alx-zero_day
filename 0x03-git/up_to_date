@@ -1,1 +1,3 @@
-vi up_to_date
+git add .
+git commit
+git push

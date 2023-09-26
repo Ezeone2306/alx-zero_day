@@ -1,2 +1,1 @@
-My first readme. Tips
-it's going great
+it is well
